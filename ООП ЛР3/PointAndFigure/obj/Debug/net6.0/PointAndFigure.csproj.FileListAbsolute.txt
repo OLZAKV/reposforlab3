@@ -1,0 +1,15 @@
+C:\Users\alex\Documents\GitHub\reposforlab3\ООП ЛР3\PointAndFigure\bin\Debug\net6.0\PointAndFigure.exe
+C:\Users\alex\Documents\GitHub\reposforlab3\ООП ЛР3\PointAndFigure\bin\Debug\net6.0\PointAndFigure.deps.json
+C:\Users\alex\Documents\GitHub\reposforlab3\ООП ЛР3\PointAndFigure\bin\Debug\net6.0\PointAndFigure.runtimeconfig.json
+C:\Users\alex\Documents\GitHub\reposforlab3\ООП ЛР3\PointAndFigure\bin\Debug\net6.0\PointAndFigure.dll
+C:\Users\alex\Documents\GitHub\reposforlab3\ООП ЛР3\PointAndFigure\bin\Debug\net6.0\PointAndFigure.pdb
+C:\Users\alex\Documents\GitHub\reposforlab3\ООП ЛР3\PointAndFigure\obj\Debug\net6.0\PointAndFigure.csproj.AssemblyReference.cache
+C:\Users\alex\Documents\GitHub\reposforlab3\ООП ЛР3\PointAndFigure\obj\Debug\net6.0\PointAndFigure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Documents\GitHub\reposforlab3\ООП ЛР3\PointAndFigure\obj\Debug\net6.0\PointAndFigure.AssemblyInfoInputs.cache
+C:\Users\alex\Documents\GitHub\reposforlab3\ООП ЛР3\PointAndFigure\obj\Debug\net6.0\PointAndFigure.AssemblyInfo.cs
+C:\Users\alex\Documents\GitHub\reposforlab3\ООП ЛР3\PointAndFigure\obj\Debug\net6.0\PointAndFigure.csproj.CoreCompileInputs.cache
+C:\Users\alex\Documents\GitHub\reposforlab3\ООП ЛР3\PointAndFigure\obj\Debug\net6.0\PointAndFigure.dll
+C:\Users\alex\Documents\GitHub\reposforlab3\ООП ЛР3\PointAndFigure\obj\Debug\net6.0\refint\PointAndFigure.dll
+C:\Users\alex\Documents\GitHub\reposforlab3\ООП ЛР3\PointAndFigure\obj\Debug\net6.0\PointAndFigure.pdb
+C:\Users\alex\Documents\GitHub\reposforlab3\ООП ЛР3\PointAndFigure\obj\Debug\net6.0\PointAndFigure.genruntimeconfig.cache
+C:\Users\alex\Documents\GitHub\reposforlab3\ООП ЛР3\PointAndFigure\obj\Debug\net6.0\ref\PointAndFigure.dll
